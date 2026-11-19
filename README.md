@@ -8,10 +8,10 @@ A practical portfolio of 50 governance, risk, and compliance projects. Each proj
 - **Advanced:** Projects 36–50
 
 ## Project progress
-- Beginner: 0/15
-- Intermediate: 0/20
-- Advanced: 0/15
-- Overall: 0/50
+- Beginner: 15/15
+- Intermediate: 20/20
+- Advanced: 15/15
+- Overall: 50/50
 
 ## Project index
 
